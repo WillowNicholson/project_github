@@ -8,7 +8,6 @@
 #                investigating
 #
 #
-#
 
 log_function()
 {
