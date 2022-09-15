@@ -85,6 +85,8 @@ fi
 return ${STATUS}
 }
 
+# Main script
+
 export PATH=/usr/sbin:$PATH
 
 LOGFILE=/tmp/patching_health_check.log
