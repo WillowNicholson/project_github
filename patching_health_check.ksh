@@ -35,7 +35,7 @@ then
         STATUS=${STATUS}+1
 fi
 
-# Check states of zpools
+# Check status of zpools
 zpool status -vx |/usr/xpg4/bin/grep -q "all pools are healthy" ; POOLSTATUS=$?
 if [[ ${POOLSTATUS} -ne 0 ]]
 then
