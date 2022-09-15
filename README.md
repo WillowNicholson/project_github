@@ -15,5 +15,4 @@ patching_health_check.log
 servers.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Script author : Willow Nicholson
