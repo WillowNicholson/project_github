@@ -7,7 +7,7 @@
 Git course end of module assignment
 
 ### Description
-Describe what your project is about and what it does
+Script to be run pre-patching to check health of servers to be patched.  Written for Solaris servers
 
 ### Files used
 patching_helath_check.ksh
